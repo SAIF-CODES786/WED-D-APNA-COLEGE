@@ -34,3 +34,7 @@ Neo4j etc.
 SQL (Structured Query Language)
 
 SQL is a programming language used to interact with relational databases.
+
+
+
+connection.end()
